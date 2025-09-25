@@ -1,6 +1,6 @@
-# ML Curious Git Workshop: Collaboration
+# ML Curious Git Workshop: Collaboration Repository
 
-Welcome to the Git Collaboration workshop repository.
+Welcome to the Git Collaboration exercise.
 
 In this repository we will practice:
 - Cloning a remote repository
