@@ -12,7 +12,7 @@ In this repository we will practice:
 ## Instructions
 1. Clone this repository:
 ```
-git clone https://github.com/<your-org>/<workshop-repo>.git
+git clone https://github.com/isabelahm/Git-Collaboration-Demo.git
 cd workshop-repo
 ```
 2. Create a new branch with your name:
