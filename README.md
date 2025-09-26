@@ -13,7 +13,7 @@ In this repository we will practice:
 1. Clone this repository:
 ```
 git clone https://github.com/isabelahm/Git-Collaboration-Demo.git
-cd workshop-repo
+cd Git-Collaboration-Demo
 ```
 2. Create a new branch with your name:
 ```
